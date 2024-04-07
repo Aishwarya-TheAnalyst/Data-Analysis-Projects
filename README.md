@@ -94,7 +94,7 @@ Step 5: Save the file as (.pbix)
   
 #### Data Modeling in Power BI
 	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="" /></a></p>
 
 #### [Power BI Dashboard](https://www.novypro.com/project/sales-insights-analysis-4)
 #### Key Insights
