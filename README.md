@@ -92,7 +92,7 @@ Step 5: Save the file as (.pbix)
 
 ## Data Analysis Using Power Bi 
   
-#### Data Modeling in Power BI
+#### Data Modelling in Power BI
 	
 <p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL/blob/main/images/Data%20Modelling.JPG" /></a></p>
 
