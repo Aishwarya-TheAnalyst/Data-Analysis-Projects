@@ -2,6 +2,7 @@
 <h1 align="center">Sales Insights using Power BI & SQL <a href="https://www.novypro.com/project/sales-insights-analysis-4" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png" alt="PowerBI" width="40" height="40"/> </a> </h1>
 
 ### Problem Statement :bookmark:
+
 The Sales Director at AtliQ Hardware, a company selling computer hardware and accessories across India, faces a crucial challenge. Despite ongoing discussions with regional managers to understand sales and market trends, the reliance on Excel files for data analysis creates frustration. This difficulty in interpreting numerical data delays the identification of business issues and limits informed decision-making. Consequently, there is a pressing need for a more user-friendly data analytics solution to improve performance evaluation and strategic planning across the organization.
 
 ## Technologies used ⚙️
@@ -16,29 +17,16 @@ The Sales Director at AtliQ Hardware, a company selling computer hardware and ac
 * <p> Statistics <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </p>
 
   
-### [Power BI Dashboard Link](https://www.novypro.com/project/sales-insights-analysis-4) <a href="https://www.novypro.com/project/sales-insights-analysis-4" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png" alt="tableau" width="20" height="20"/> </a>  🔗
+#### [Power BI Dashboard Link](https://www.novypro.com/project/sales-insights-analysis-4) <a href="https://www.novypro.com/project/sales-insights-analysis-4" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png" alt="tableau" width="20" height="20"/> </a>  🔗
 
 
-### Approach - Project Planning & Aims Grid
+
+## Approach - Project Planning & Aims Grid
+<img src="https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL/blob/main/images/AIMS%20grid%20sales%20insights.jpg" alt="AIMS Grid">
+
   
-#### 1. Purpose: What? Why? What do we want to achieve?
-To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
-#### 2. Stake Holders: Who will be involved?
-- Sales Director
-- Customer Service Team
-- IT Team
-- Data & Analytics Team
-
-#### 3. End Result: What do we want to achieve?
-An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
-
-#### 4. Success Criteria: What will be our success criteria?
-- Dashboards uncovering sales order insights with latest data available.
-- Sales team able to take better decision & prove 10% cost savings of total spend.
-- Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
-
-### Setup Process
+## Setup Process
   
 Step 1: Download file: <code>[db_dump.sql](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> 
 
@@ -116,8 +104,7 @@ Step 5: Save the file as (.pbix)
 |1| **Power BI Project Dashboard :** Sales Insights Analysis using Power BI | [Dashboard](https://www.novypro.com/project/sales-insights-analysis-4)|
 |2| Tutorial | [YouTube 1](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) | 
 |3| MySQL installation | [YouTube 2](https://www.youtube.com/watch?v=WuBcTJnIuzo) |
-|4| OLTP & OLAP | [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/) | 
-|5| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
+|4| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
   
 
 
