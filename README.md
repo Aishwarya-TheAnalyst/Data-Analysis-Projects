@@ -101,10 +101,9 @@ Step 5: Save the file as (.pbix)
 
 |**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
 |------|--------------------|---------------------|
-|1| **Power BI Project Dashboard :** Sales Insights Analysis using Power BI | [Dashboard](https://www.novypro.com/project/sales-insights-analysis-4)|
-|2| Tutorial | [YouTube 1](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) | 
-|3| MySQL installation | [YouTube 2](https://www.youtube.com/watch?v=WuBcTJnIuzo) |
-|4| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
+|1| Tutorial | [YouTube 1](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) | 
+|2| MySQL installation | [YouTube 2](https://www.youtube.com/watch?v=WuBcTJnIuzo) |
+|3| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
   
 
 
