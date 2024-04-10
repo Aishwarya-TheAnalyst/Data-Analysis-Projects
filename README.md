@@ -28,7 +28,7 @@ The Sales Director at AtliQ Hardware, a company selling computer hardware and ac
 
 ## Setup Process
   
-Step 1: Download file: <code>[db_dump.sql](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> 
+Step 1: Download file: <code>[db_dump.sql](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL/blob/main/db_dump.sql)</code> 
 
 Step 2: Import it in MySql do EDA(Exploratory Data Analysis)
 
