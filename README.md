@@ -13,7 +13,6 @@ The Sales Director at AtliQ Hardware, a company selling computer hardware and ac
 
 * <p> Power BI  <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png" alt="PowerBi" width="25" height="25"/> </p> 
 
-
 * <p> Statistics <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </p>
 
   
@@ -82,7 +81,7 @@ Step 5: Save the file as (.pbix)
   
 #### Data Modelling in Power BI
 	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL/blob/main/images/Data%20Modelling.JPG" /></a></p>
+<p  align="center"><img width="80%" src="https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL/blob/main/images/Data%20Modelling.JPG" /></p>
 
 #### [Power BI Dashboard](https://www.novypro.com/project/sales-insights-analysis-4)
 #### Key Insights
@@ -93,9 +92,6 @@ Step 5: Save the file as (.pbix)
 
 #### Performance Insights
 <p  align="center"><img width="100%" src="https://github.com/Aishwarya-TheAnalyst/Data-Analysis-Projects/blob/main/images/Performance%20Insights.JPG" /></p>
-
-
-
   
 ## Project References: 🔗
 
